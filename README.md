@@ -2,9 +2,6 @@
 ```
 nums = [3, 1, 2, 1]
 ```
-
-I’ll unfold the logic step by step.
-
 ---
 
 # ✅ **Dry Run Table**
